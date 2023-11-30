@@ -11,7 +11,7 @@ Telegram-bot-server 是 Telegram 机器人管理系统，包含 机器人管理�
 在Telegram 搜索 wang 加入到自己的聊天群
 
 ### 联系方式
-![输入图片说明](https://foruda.gitee.com/images/1701332722357223428/95c089a9_2042292.jpeg "屏幕截图")
+![输入图片说明](https://github.com/JoyFeng0826/telegram-bot/blob/main/src/assets/readme/10.jpeg "屏幕截图")
 
 
 
