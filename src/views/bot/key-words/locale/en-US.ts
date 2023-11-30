@@ -1,0 +1,36 @@
+export default {
+  'menu.bit.keyWords': 'Key Words',
+  // form
+  'keyWords.form.botName': 'Bot Name',
+  'keyWords.form.botName.placeholder': 'Please Select Bot',
+  'keyWords.form.status': 'Status',
+  'keyWords.form.status.true': 'Disable',
+  'keyWords.form.status.false': 'Enable',
+  'keyWords.form.status.placeholder': 'Please Select Status',
+  'keyWords.form.keyWord.placeholder': 'Please Input KeyWord',
+  'keyWords.form.keyWord': 'KeyWord',
+  'searchTable.form.createdTime': 'createdTime',
+  'searchTable.form.search': 'Search',
+  'searchTable.form.reset': 'Reset',
+  // columns
+  'keyWords.columns.id': 'Id',
+  'keyWords.columns.botId': 'Bot Name',
+  'keyWords.columns.keyWord': 'Key Word',
+  'keyWords.columns.callTxt': 'Call Message',
+  'keyWords.columns.createTime': 'CreateTime',
+  'keyWords.columns.status': 'Status',
+  'keyWords.columns.operations': 'Operations',
+  'keyWords.columns.operations.edit': 'Edit',
+  'keyWords.columns.operations.del': 'Del',
+  'keyWords.columns.operations.disable': 'Disable',
+  'keyWords.columns.operations.enable': 'Enable',
+  // size
+  'searchTable.size.mini': 'mini',
+  'searchTable.size.small': 'small',
+  'searchTable.size.medium': 'middle',
+  'searchTable.size.large': 'large',
+  // actions
+  'searchTable.actions.refresh': 'refresh',
+  'searchTable.actions.density': 'density',
+  'searchTable.actions.columnSetting': 'columnSetting',
+};

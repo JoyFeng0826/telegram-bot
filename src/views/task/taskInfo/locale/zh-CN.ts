@@ -1,0 +1,41 @@
+export default {
+  'menu.task.taskInfo': '任务列表',
+
+  'keyWords.form.botName': '机器名称',
+  'keyWords.form.botName.placeholder': '请选择机器人名称',
+  'task.form.name': '任务名称',
+  'task.form.name.placeholder': '请输入任务名称',
+  'task.form.type': '任务类型',
+  'task.form.type.placeholder': '请选择任务类型',
+  'task.form.type.1': '发送消息',
+  'task.form.type.2': '发送网站截图消息',
+  'searchTable.form.createTime': '创建时间',
+  'searchTable.form.search': '查询',
+  'searchTable.form.reset': '重置',
+  'searchTable.form.selectDefault': '全部',
+  'searchTable.operation.create': '新建',
+  'searchTable.operation.import': '批量导入',
+  'searchTable.operation.download': '下载',
+  // columns
+  'keyWords.columns.id': '序号',
+  'keyWords.columns.botId': '机器人名称',
+  'keyWords.columns.keyWord': '关键字',
+  'keyWords.columns.callTxt': '返回消息',
+  'keyWords.columns.createTime': '创建时间',
+  'keyWords.columns.status': '状态',
+
+  'keyWords.columns.operations': '操作',
+  'keyWords.columns.operations.edit': '编辑',
+  'keyWords.columns.operations.del': '删除',
+  'keyWords.columns.operations.disable': '启用',
+  'keyWords.columns.operations.enable': '禁用',
+  // size
+  'searchTable.size.mini': '迷你',
+  'searchTable.size.small': '偏小',
+  'searchTable.size.medium': '中等',
+  'searchTable.size.large': '偏大',
+  // actions
+  'searchTable.actions.refresh': '刷新',
+  'searchTable.actions.density': '密度',
+  'searchTable.actions.columnSetting': '列设置',
+};
